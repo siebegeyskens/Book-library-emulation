@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="be.ehb.multec.ui.ApplicationLayerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-07T14:29:02" hostname="5CG6385CXB" time="1.765">
+  <properties/>
+  <testcase name="deleteAuthorForWhichABookExists()" classname="be.ehb.multec.ui.ApplicationLayerTest" time="1.765"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[java.sql.SQLIntegrityConstraintViolationException: Cannot delete or update a parent row: a foreign key constraint fails
+ while trying to remove Author{id=3, firstName='Tony', lastName='Butt', birthday='1961-03-01'}
+]]></system-err>
+</testsuite>

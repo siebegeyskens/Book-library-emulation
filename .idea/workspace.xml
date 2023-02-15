@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e70edb4-1f33-4c61-bdef-16458c4a6b5f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/Groep1">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/Demo">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Development III" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1j4FbIyxTp3imj5FpYh7bVJRe05" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../examen/GEYSKENS_SIEBE" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="be.ehb.multec.data" />
+      <recent name="be.ehb.multec.ui" />
+      <recent name="be.ehb.multec.model" />
+      <recent name="be.ehb.multec" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Siebe Geyskens\Documents\EHB\Dev 3\werkstuk" />
+      <recent name="C:\Users\Siebe Geyskens\Documents\EHB\Dev 3\werkstuk\Demo\src\main\java\be\ehb\multec\data\util" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="be.ehb.multec.ui" />
+      <recent name="be.ehb.multec.data" />
+      <recent name="be.ehb.multec.data.util" />
+      <recent name="be.ehb.multec" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="be.ehb.multec.data" />
+      <recent name="be.ehb.multec.model" />
+      <recent name="be.ehb.multec" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.ApplicationLayerTest.deleteAuthorForWhichABookExists">
+    <configuration name="ApplicationLayerTest.addBook" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;be.ehb.multec.ui.ApplicationLayerTest.addBook&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApplicationLayerTest.deleteAuthorForWhichABookExists" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;be.ehb.multec.ui.ApplicationLayerTest.deleteAuthorForWhichABookExists&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApplicationLayerTest.deleteBook" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;be.ehb.multec.ui.ApplicationLayerTest.deleteBook&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApplicationLayerTest.searchAllBooks" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;be.ehb.multec.ui.ApplicationLayerTest.searchAllBooks&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApplicationLayerTest.updatePrice" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;be.ehb.multec.ui.ApplicationLayerTest.updatePrice&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ApplicationLayerTest.deleteAuthorForWhichABookExists" />
+        <item itemvalue="Gradle.ApplicationLayerTest.deleteBook" />
+        <item itemvalue="Gradle.ApplicationLayerTest.updatePrice" />
+        <item itemvalue="Gradle.ApplicationLayerTest.addBook" />
+        <item itemvalue="Gradle.ApplicationLayerTest.searchAllBooks" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e70edb4-1f33-4c61-bdef-16458c4a6b5f" name="Default Changelist" comment="" />
+      <created>1603055526917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603055526917</updated>
+      <workItem from="1603055532872" duration="912000" />
+      <workItem from="1603056535202" duration="31949000" />
+      <workItem from="1603698167365" duration="28992000" />
+      <workItem from="1604541878527" duration="1321000" />
+      <workItem from="1604543844058" duration="9000" />
+      <workItem from="1604545075650" duration="616000" />
+      <workItem from="1604582250072" duration="2967000" />
+      <workItem from="1604591422824" duration="75000" />
+      <workItem from="1604605902941" duration="14000" />
+      <workItem from="1604995031632" duration="29280000" />
+      <workItem from="1605512732996" duration="29439000" />
+      <workItem from="1606050444366" duration="14439000" />
+      <workItem from="1606085303589" duration="21650000" />
+      <workItem from="1606722938622" duration="8832000" />
+      <workItem from="1607009231452" duration="79000" />
+      <workItem from="1607011839218" duration="53000" />
+      <workItem from="1607025874072" duration="390000" />
+      <workItem from="1607126082900" duration="52000" />
+      <workItem from="1607328016688" duration="20305000" />
+      <workItem from="1607366671691" duration="113000" />
+      <workItem from="1607373418787" duration="81000" />
+      <workItem from="1607606126485" duration="784000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="188" key="#Project_Structure" timestamp="1609964982983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="188" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1609964982983" />
+    <state x="552" y="201" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1607333026187" />
+    <state x="690" y="298" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1605536852552">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="298" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605536852552" />
+    <state x="1096" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1609799235642">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1096" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609799235642" />
+    <state x="1096" y="238" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1607358461648" />
+    <state x="742" y="388" width="435" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609678895271">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="388" width="435" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1609678895271" />
+    <state x="165" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609682975349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="165" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609682975349" />
+    <state x="165" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607357004575" />
+    <state x="690" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606050611639">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="690" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606050611639" />
+    <state x="1152" y="413" key="#xdebugger.evaluate" timestamp="1606093126872">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1152" y="413" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1606093126872" />
+    <state x="722" y="421" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606058704438">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="722" y="421" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1606058704438" />
+    <state width="392" height="466" key="DebuggerActiveHint" timestamp="1606142420302">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="392" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1606142420302" />
+    <state x="737" y="326" key="DetectedRootsChooserDialog" timestamp="1606056968759">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="737" y="326" key="DetectedRootsChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606056968759" />
+    <state x="740" y="287" key="FileChooserDialogImpl" timestamp="1609964790103">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609964790103" />
+    <state x="740" y="298" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1607373494427" />
+    <state width="1867" height="159" key="GridCell.Tab.0.bottom" timestamp="1610029951561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1610021087029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1610021087029" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609713105540" />
+    <state width="1867" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610029951561" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607606932737" />
+    <state width="1867" height="159" key="GridCell.Tab.0.center" timestamp="1610029951560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1610021087027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.center.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1610021087027" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609713105540" />
+    <state width="1867" height="159" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610029951560" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607606932737" />
+    <state width="1867" height="159" key="GridCell.Tab.0.left" timestamp="1610029951560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1610021087026">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.left.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1610021087026" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609713105539" />
+    <state width="1867" height="159" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610029951560" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607606932737" />
+    <state width="1867" height="159" key="GridCell.Tab.0.right" timestamp="1610029951561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1610021087028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.0.right.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1610021087028" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609713105540" />
+    <state width="1867" height="159" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610029951561" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607606932737" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1609962867727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609713105540" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609962867727" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1607366327884" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1609962867727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609713105540" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609962867727" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1607366327884" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1609962867726">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609713105540" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609962867726" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1607366327884" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1609962867727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609713105540" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609962867727" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1607366327884" />
+    <state x="463" y="157" key="SettingsEditor" timestamp="1610029566077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="157" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610029566077" />
+    <state x="463" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606078956957" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1609966979167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1609966979167" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1609964321297">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609964321297" />
+    <state x="667" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1607373420340">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="367" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607373420340" />
+    <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1609695146307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1609695146307" />
+    <state x="731" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1609799271762">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="250" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609799271762" />
+    <state x="731" y="260" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1607365770982" />
+    <state x="342" y="158" key="new project wizard" timestamp="1607344680103">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="342" y="158" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1607344680103" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1609709585305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1609709585305" />
+    <state x="623" y="225" width="840" height="678" key="search.everywhere.popup" timestamp="1610029546633">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1610029546633" />
+  </component>
+</project>
